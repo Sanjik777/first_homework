@@ -1,0 +1,6 @@
+C:\Users\Санжар\source\repos\First_Homework\First_Homework\bin\Debug\First_Homework.exe
+C:\Users\Санжар\source\repos\First_Homework\First_Homework\bin\Debug\First_Homework.pdb
+C:\Users\Санжар\source\repos\First_Homework\First_Homework\obj\Debug\First_Homework.csprojResolveAssemblyReference.cache
+C:\Users\Санжар\source\repos\First_Homework\First_Homework\obj\Debug\First_Homework.csproj.CoreCompileInputs.cache
+C:\Users\Санжар\source\repos\First_Homework\First_Homework\obj\Debug\First_Homework.exe
+C:\Users\Санжар\source\repos\First_Homework\First_Homework\obj\Debug\First_Homework.pdb
